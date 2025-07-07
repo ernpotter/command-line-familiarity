@@ -6,3 +6,4 @@ First you must navigate to start_here using the "cd" command.
 Then you must read the contents of the clue1.txt file using the "cat" command.
 
 Good luck!
+
